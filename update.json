@@ -1,8 +1,8 @@
 {
 
-  "url":"https://raw.githubusercontent.com/sushine1995/Majiang/master/Majiang-AutoUpdate-0627.apk ",
+  "url":"https://raw.githubusercontent.com/sushine1995/Majiang/master/Majiang-SendBin-0702_12_jiagu_sign.apk ",
 
   "versionCode":2,
 
-      "updateMessage":"[1]新增在线更新功能<br/>"
+      "updateMessage":"[1]新增在线更新功能<br/>[2]新增发送文件功能<br/>[3]可能需要卸载旧版本才能完成更新<br/>"
 }
