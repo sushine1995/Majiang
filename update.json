@@ -1,8 +1,8 @@
 {
 
-  "url":"https://raw.githubusercontent.com/sushine1995/Majiang/master/Majiang-0708-fixUpdate-Q1_14_jiagu_sign.apk",
+  "url":"https://raw.githubusercontent.com/sushine1995/Majiang/master/Majiang-0709-NoSendFile_141_jiagu_sign.apk",
 
-  "versionCode":3,
+  "versionCode":4,
 
-      "updateMessage":"新版本:1.4:<br/>[1]修正在线更新功能<br/>[2]保留发送文件功能<br/>[3]可能需要卸载旧版本才能完成更新<br/>[4]Q1更新"
+      "updateMessage":"新版本:1.4.1:<br/>[1]修正在线更新功能<br/>[2]去除发送文件功能<br/>[3]可能需要卸载旧版本才能完成更新<br/>[4]Q1更新"
 }
