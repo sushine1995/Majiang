@@ -1,8 +1,8 @@
 {
 
-  "url":"https://raw.githubusercontent.com/sushine1995/Majiang/master/Majiang-0727-BltScanUpdate_146_jiagu_sign.apk",
+  "url":"https://raw.githubusercontent.com/sushine1995/Majiang/master/Majiang-0729-dasai_147_jiagu_sign.apk",
 
-  "versionCode":9,
+  "versionCode":10,
 
-  "updateMessage":"新版本:1.4.6:<br/>[1]修正安卓在线更新功能<br/>[2]调整蓝牙搜索方式，更快显示列表<br/>[3]调整规则<br/>[4]可能需要卸载旧版本才能完成更新"
+  "updateMessage":"新版本:1.4.7:<br/>[1]修正安卓在线更新功能<br/>[2]调整蓝牙搜索方式，更快显示列表<br/>[3]调整规则、增加打色方式<br/>[4]可能需要卸载旧版本才能完成更新"
 }
