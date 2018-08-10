@@ -1,8 +1,8 @@
 {
 
-  "url":"https://raw.githubusercontent.com/sushine1995/Majiang/master/Majiang-0803-quyutishi_148_jiagu_sign.apk ",
+  "url":"https://raw.githubusercontent.com/sushine1995/Majiang/master/Majiang-0810-addDice_149_jiagu_sign.apk",
 
-  "versionCode":11,
+  "versionCode":12,
 
-  "updateMessage":"新版本:1.4.8:<br/>[1]修正安卓在线更新功能<br/>[2]调整蓝牙搜索方式，更快显示列表<br/>[3]调整规则、增加打色方式,区域设置错误提示<br/>[4]可能需要卸载旧版本才能完成更新"
+  "updateMessage":"新版本:1.4.9:<br/>[1]修正安卓在线更新功能<br/>[2]调整蓝牙搜索方式，更快显示列表<br/>[3]增加3种打色方式<br/>[4]可能需要卸载旧版本才能完成更新"
 }
