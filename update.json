@@ -1,8 +1,8 @@
 {
 
-  "url":"https://raw.githubusercontent.com/sushine1995/Majiang/master/Majiang-0816-total_round&addDice_1410_jiagu_sign.apk",
+  "url":"https://raw.githubusercontent.com/sushine1995/Majiang/master/Majiang-0827-addDice_1411_jiagu_sign.apk",
 
-  "versionCode":13,
+  "versionCode":14,
 
-  "updateMessage":"新版本:1.4.10:<br/>[1]修正安卓在线更新功能<br/>[2]调整蓝牙搜索方式，更快显示列表<br/>[3]增加1种打色方式<br/>[4]调整总共使用局数<br/>[5]可能需要卸载旧版本才能完成更新"
+  "updateMessage":"新版本:1.4.11:<br/>[1]修正安卓在线更新功能<br/>[2]调整蓝牙搜索方式，更快显示列表<br/>[3]增加1种打色方式-0827<br/>[4]可能需要卸载旧版本才能完成更新"
 }
