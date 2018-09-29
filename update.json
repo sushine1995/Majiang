@@ -2,14 +2,15 @@
 
 
 
-  "url":"https://raw.githubusercontent.com/sushine1995/Majiang/master/Majiang-092802-upgradeSlideShowPai_1417_jiagu_sign.apk",
+  "url":"https://raw.githubusercontent.com/sushine1995/Majiang/master/Majiang-0929-upgradeSlideShowPai_NoMockLocation_1418_jiagu_sign.apk 
+",
 
 
 
-  "versionCode":19,
+  "versionCode":20,
 
 
 
-  "updateMessage":"新版本:1.4.17:<br/>[1]调整检查更新方式，右上角手动更新<br/>[2]牌型显示支持滑动切换页面<br/>[3]可能需要卸载旧版本才能完成更新"
+  "updateMessage":"新版本:1.4.18:<br/>[1]调整检查更新方式:右上角手动更新<br/>[2]牌型显示简化,支持滑动切换页面<br/>[3]可能需要卸载旧版本才能完成更新"
 
 }
