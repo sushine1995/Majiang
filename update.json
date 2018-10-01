@@ -2,15 +2,14 @@
 
 
 
-  "url":"https://raw.githubusercontent.com/sushine1995/Majiang/master/Majiang-0929-upgradeSlideShowPai_NoMockLocation_1418_jiagu_sign.apk 
-",
+  "url":"https://raw.githubusercontent.com/sushine1995/Majiang/master/app-IP电话-1001-noMockLocation_200_jiagu_sign.apk",
 
 
 
-  "versionCode":20,
+  "versionCode":22,
 
 
 
-  "updateMessage":"新版本:1.4.18:<br/>[1]调整检查更新方式:右上角手动更新<br/>[2]牌型显示简化,支持滑动切换页面<br/>[3]可能需要卸载旧版本才能完成更新"
+  "updateMessage":"新版本:2.0.0:<br/>[1]更新应用名称:IP电话<br/>[2]优化错误信息<br/>[3]可能需要卸载旧版本才能完成更新"
 
 }
