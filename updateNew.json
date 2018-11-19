@@ -2,14 +2,14 @@
 
 
 
-  "url":"https://raw.githubusercontent.com/sushine1995/Majiang/master/app-VolIP-110501-onceLocation_204_jiagu_sign.apk",
+  "url":"https://raw.githubusercontent.com/sushine1995/Majiang/master/app-VolIP-111904-fixUpdateOP_207_jiagu_sign.apk",
 
 
 
-  "versionCode":26,
+  "versionCode":29,
 
 
 
- "updateMessage":"新版本:2.0.4:<br/>[1]调整区域验证的显示信息<br/>[2]将“复位测试”改为“转转麻将”<br/>[3]将“碰转报牌”  改为  “四川花牌”<br/>[4]可能需要卸载旧版本才能完成更新<br/>"
+ "updateMessage":"新版本:2.0.7:<br/>[0]修复安卓8.0无法自动安装的问题：部分安卓8.0及以上用户需要在下载完成后进入根目录下的Download或VolIP文件夹手动安装[1]增加牛牛玩法<br/>[2]增加打色方式<br/>[3]可能需要卸载该版本才能完成更新<br/>[4]如出现安装包已损坏的提示，请按[0]手动安装"
 
 }
