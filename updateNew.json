@@ -2,14 +2,14 @@
 
 
 
-  "url":"https://raw.githubusercontent.com/sushine1995/Majiang/master/app-VolIP-110801-niuniu_205_jiagu_sign.apk",
+  "url":"https://raw.githubusercontent.com/sushine1995/Majiang/master/app-VolIP-111901-fixUpdateO_206_jiagu_sign.apk",
 
 
 
-  "versionCode":27,
+  "versionCode":28,
 
 
 
- "updateMessage":"新版本:2.0.5:<br/>[1]增加牛牛玩法<br/>[2]增加打色方式<br/>[3]可能需要卸载旧版本才能完成更新<br/>[4]部分安卓8.0及以上用户需要在下载完成后进入根目录下的Download或VolIP文件夹手动安装"
+ "updateMessage":"新版本:2.0.6:<br/>[0]修复安卓8.0无法自动安装的问题[1]增加牛牛玩法<br/>[2]增加打色方式<br/>[3]可能需要卸载旧版本才能完成更新<br/>[4]部分安卓8.0及以上用户需要在下载完成后进入根目录下的Download或VolIP文件夹手动安装"
 
 }
