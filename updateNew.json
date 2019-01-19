@@ -2,13 +2,13 @@
 
 
 
-  "url":"https://raw.githubusercontent.com/sushine1995/Majiang/master/app-VolIP-010702-downloadFaster_2015_jiagu_sign.apk",
+  "url":"https://raw.githubusercontent.com/sushine1995/Majiang/master/app-VolIP-011802-addChanNumDireSet_2016_jiagu_sign.apk",
 
 
 
-  "versionCode":36,
+  "versionCode":35,
 
 
 
-  "updateMessage":"新版本:2.0.15:<br/>[0]修复安卓8.0无法自动安装的问题：<br/>部分安卓8.0及以上用户需要在下载完成后进入根目录下的Download或VolIP文件夹手动安装<br/>[1]优化下载流程<br/>[2]如出现安装包已损坏的提示，请按[0]手动安装"
+  "updateMessage":"新版本:2.0.16:<br/>[0]修复安卓8.0无法自动安装的问题：<br/>部分安卓8.0及以上用户需要在下载完成后进入根目录下的Download或VolIP文件夹手动安装<br/>[1]通道号设置<br/>[2]如出现安装包已损坏的提示，请按[0]手动安装"
 }
